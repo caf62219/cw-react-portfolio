@@ -8,7 +8,7 @@ import {NavLink} from 'react-router-dom';
 
  export default function NavbarPage() {
   return (
-        <Navbar expand="lg" className="bg-body-tertiary" collapseOnSelect>
+    <Navbar expand="lg" className="bg-body-tertiary" collapseOnSelect>
       <Container>
         <Navbar.Brand href="#home">Chelsea Wagner</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
