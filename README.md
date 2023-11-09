@@ -2,7 +2,7 @@
 
 ## Description
 - This is a portfolio which is a single page application using REACT.
-- 
+- The viewer is able to view an about me page, a page with all the projects, a page for contact and a page for resume.
 
 ## Table of Contents
 
@@ -17,22 +17,16 @@
 
 ## Features
 
+The Portfolio utilizes the following:
 
-
-The Text Editor uses the following packages:
-
-- express: for web framework
-- concurrently: for scripting
-- babel: for backward integration of languages
-- css loader: for loading CSS
-- webpack: for bundling 
+- React: used to develop the application
+- Bootstrap: for CSS
+- Vite: for improved developer experience
 
 ## Installation
 
-To install this application you need to go to the following website:  https://text-editor-caf62219-47e9d4b0a975.herokuapp.com/
+To install this application you need to go to the following website:  
 
-
-Once there, you can click on install to make it so you can be offline.
 
 
 ## Usage
@@ -56,7 +50,7 @@ Once there, you can click on install to make it so you can be offline.
 
 ## Support
 
-    If you have any questions or problems with the Application, please create an issue on the GitHub repository: .
+    If you have any questions or problems with the Application, please create an issue on the GitHub repository: https://github.com/caf62219/cw-react-portfolio.
 
 ## Credits
 
