@@ -1,3 +1,6 @@
+import React from 'react';
+
+//footer links to github, linkedin, and instagram
 export default function Footer() {
     return (
 <div className="features-icons bg-light text-center m-4">

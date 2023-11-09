@@ -19,9 +19,17 @@
                     <li>Heroku</li>
                     <li>Jest</li>
                 </ul>
-                <h4>Soft Skills</h4>
+                <h4>Skills</h4>
+                <ul>
+                    <li> Technical Documentation</li>
+                    <li> Responsive Design</li>
+                    <li> Web Accessibility</li> 
+                    <li> Debugging and Troubleshooting</li> 
+                    <li> Web Application Optimization</li>  
+                    <li> Clean and Maintainable code</li>   
+                </ul>Technical Documentation 
             </div>
-            <iframe src=”path_to_pdf_file.pdf” width=”100%” height=”500px” />
+            <iframe src= ""width=”100%” height=”500px” />
             <button type="button" class="btn btn-primary">Download Resume</button>
         </div>
     )
