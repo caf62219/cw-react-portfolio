@@ -2,7 +2,7 @@ import React from "react";
 
 
 
-export default function Project() {
+export default function Project({article}) {
   return (
    <div className="col-md-4" key={article.id}>
     <div className="card zoom-card" key={article.id}>

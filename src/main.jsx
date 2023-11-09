@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 
 import App from './App.jsx';
-import About from './pages/AboutPage.jsx';
+import AboutPage from './pages/AboutPage.jsx';
 import Contact from './pages/Contact.jsx'; 
 import Portfolio from './pages/Portfolio.jsx';
 import Resume from './pages/Resume.jsx'; 
@@ -21,14 +21,14 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        element: <About />,
+        element: <AboutPage />,
       },
       {
-        path: 'profile/:id',
+        path: 'contact',
         element: <Contact />,
       },
       {
-        path: 'about',
+        path: 'portfolio',
         element: <Portfolio />,
       },
       {

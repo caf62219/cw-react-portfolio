@@ -29,7 +29,7 @@
                     <li> Clean and Maintainable code</li>   
                 </ul>Technical Documentation 
             </div>
-            <iframe src= ""width=”100%” height=”500px” />
+           
             <button type="button" class="btn btn-primary">Download Resume</button>
         </div>
     )
