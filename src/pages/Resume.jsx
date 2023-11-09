@@ -19,6 +19,8 @@
                     <li>Heroku</li>
                     <li>Jest</li>
                 </ul>
+                <br></br>   
+                <br></br>
                 <h4>Skills</h4>
                 <ul>
                     <li> Technical Documentation</li>
@@ -29,8 +31,9 @@
                     <li> Clean and Maintainable code</li>   
                 </ul>Technical Documentation 
             </div>
-           
-            <button type="button" class="btn btn-primary">Download Resume</button>
+           <br></br>
+           <br> </br>   
+            <button type="button" className="btn btn-primary">Download Resume</button>
         </div>
     )
 }
