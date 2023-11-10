@@ -2,10 +2,11 @@ import React from 'react';
 
 export default function Footer() {
    return (
-       <footer className="features-icons bg-light text-center m-4 w-100 mt-auto bg-secondary p-4" >
+    <div style={{position:"relative", minHeight:"10vh", width:'100%'}}>
+       <footer className="features-icons bg-light text-center " style= {{position:'fixed', left:0, bottom:0, right:0, width:'100%'}}>
            <div className="container">
                <div className="row justify-content-center p-2">
-                  <div className="col-lg-1">
+                  <div className=" col-1">
                       <div className="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                           <div className="features-icons-icon d-flex">
                               <a href="https://github.com/caf62219" target="_blank" rel="noopener noreferrer">
@@ -14,7 +15,7 @@ export default function Footer() {
                           </div>
                       </div>
                   </div>
-                  <div className="col-lg-1">
+                  <div className=" col-1 mx-5">
                       <div className="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                           <div className="features-icons-icon d-flex">
                               <a href="https://www.linkedin.com/in/chelsea-wagner-a72905277/" target="_blank" rel="noopener noreferrer">
@@ -23,7 +24,7 @@ export default function Footer() {
                           </div>
                       </div>
                   </div>
-                  <div className="col-lg-1">
+                  <div className=" col-1 ">
                       <div className="features-icons-item mx-auto mb-0 mb-lg-3">
                           <div className="features-icons-icon d-flex">
                               <a href="https://www.instagram.com/caf62219/" target="_blank" rel="noopener noreferrer">
@@ -35,4 +36,5 @@ export default function Footer() {
                 </div>
             </div>
         </footer>
+        </div>
    )  }
