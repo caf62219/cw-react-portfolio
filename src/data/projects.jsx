@@ -4,7 +4,7 @@ import socialite from "../assets/SocialiteScreenshot.png";
 import weather from "../assets/weatherscreenshot.png";
 import techblog from "../assets/techblog.png";
 import quiz from "../assets/JavaScriptQuiz.png";
-import password from "../assets/Passwordgenerator.png";
+import password from "../assets/PWGenerator.png";
 
 //array of objects that contain the data for each project
 export const workData = [ /* array of objects that contain the data for each project */
