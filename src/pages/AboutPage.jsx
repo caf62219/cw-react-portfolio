@@ -1,4 +1,4 @@
-import Chelsea from "../assets/chelsea_photo.jpg";
+import Chelsea from "src/assets/chelsea_photo.jpg";
 //function that renders the about page
 export default function AboutPage() {
     return (

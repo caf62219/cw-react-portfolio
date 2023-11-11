@@ -1,6 +1,6 @@
  //imports react
  import React from 'react';
- import Resume from "../assets/resume/Chelsea-Wagner-Portfolio-Resume.pdf";
+ import Resume from "src/assets/resume/Chelsea-Wagner-Portfolio-Resume.pdf";
 
  //resume function that renders the proficiencies and skills
  export default function Resume() {

@@ -1,8 +1,8 @@
 //imports   
 import React from 'react';
-import github from "../assets/github-mark.png";
-import linkedin from "../assets/LI-In-Bug.png";
-import instagram from "../assets/instagram-1581266_1280.webp";
+import github from "src/assets/github-mark.png";
+import linkedin from "src/assets/LI-In-Bug.png";
+import instagram from "src/assets/instagram-1581266_1280.webp";
 
 //footer function that renders the footer
 export default function Footer() {
