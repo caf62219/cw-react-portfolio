@@ -25,7 +25,7 @@ The Portfolio utilizes the following:
 
 ## Installation
 
-To install this application you need to go to the following website:  
+To install this application you need to go to the following website:  https://main--velvety-syrniki-73dbbe.netlify.app/Resume
 
 
 
