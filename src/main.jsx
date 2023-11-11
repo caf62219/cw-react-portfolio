@@ -1,11 +1,9 @@
+//imports
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
-
 import App from './App.jsx';
 import AboutPage from './pages/AboutPage.jsx';
 import Contact from './pages/Contact.jsx'; 
@@ -13,6 +11,7 @@ import Portfolio from './pages/Portfolio.jsx';
 import Resume from './pages/Resume.jsx'; 
 import ErrorPage from './pages/ErrorPage.jsx';
 
+//router that renders the app
 const router = createBrowserRouter([
   {
     path: '/',

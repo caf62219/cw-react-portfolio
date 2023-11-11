@@ -1,5 +1,7 @@
+//imports   
 import React from 'react';
 
+//footer function that renders the footer
 export default function Footer() {
    return (
     <div style={{position:"relative", minHeight:"10vh", width:'100%'}}>

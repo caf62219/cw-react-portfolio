@@ -1,7 +1,8 @@
+//import React from "react";
 import React from "react";
 
 
-
+//portfolio function that renders the projects
 export default function Project({article}) {
   return (
    <div className="col-md-4" key={article.id}>

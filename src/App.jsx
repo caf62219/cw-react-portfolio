@@ -1,3 +1,4 @@
+//imports
 import React from 'react'
 
 import './App.css'
@@ -6,6 +7,7 @@ import Header from './Components/Header'
 import Footer from './Components/Footer'
 import Navbar from './Components/Navbar'
 
+//app function that renders the header, navbar, footer, and outlet
 function App() {
  
 

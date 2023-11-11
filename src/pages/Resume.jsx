@@ -1,5 +1,7 @@
+ //imports react
  import React from 'react';
 
+ //resume function that renders the proficiencies and skills
  export default function Resume() {
     return (
         <div>

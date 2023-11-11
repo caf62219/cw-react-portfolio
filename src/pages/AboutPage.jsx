@@ -1,3 +1,4 @@
+//function that renders the about page
 export default function AboutPage() {
     return (
         <div className="container pt-4">

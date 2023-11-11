@@ -1,3 +1,4 @@
+//imports
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -6,7 +7,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import {NavLink} from 'react-router-dom';
 
-
+//navbar function that renders the navbar
  export default function NavbarPage() {
   return (
     <Navbar style={{backgroundColor: "#A9DDD6"}} fixed="top" expand="lg"  collapseOnSelect>
