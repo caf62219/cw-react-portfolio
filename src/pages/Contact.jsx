@@ -47,6 +47,9 @@ export default function Contact() {
     return (
         <>
         <br></br>
+        <h1 style= {{color: "#3E4851"}}>Contact Me</h1>
+        <br></br>
+        <br></br>
          <form onSubmit={handleSubmit}>
            <label>
              <input
@@ -89,6 +92,8 @@ export default function Contact() {
            <input type="submit" value="Submit" />
          </form>
          <br></br>
+         <h3 style= {{color: "#3E4851"}}>Phone Number: 858-414-2669</h3>
+         <h3 style= {{color: "#3E4851"}}>Email Address: 1chelsea.fischer1@gmail.com </h3>
        </>
     )
 }

@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import NavbarPage from '../../src/Components/Navbar';
 export default function Header() {
     return (
-        <div>
+        <header >
             < NavbarPage />
-        </div>
+        </header>
       )
 }

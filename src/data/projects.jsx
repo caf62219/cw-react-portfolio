@@ -20,7 +20,7 @@ export const workData = [ /* array of objects that contain the data for each pro
       title: "Socialite",
       image: socialite,
       website: "https://caf62219.github.io/socialite/",
-      description: "A place for people to plan the perfect date in their area. With this application a user can search for restaurants by cuisine, movies, sports, theather, festivals and other events in their area. Users can also access local breweries near their area ", 
+      description: "A place for people to plan the perfect date in their area including beverages, entertainment, and food. ", 
       repo: "https://github.com/caf62219/socialite",
        },
     {
@@ -36,7 +36,7 @@ export const workData = [ /* array of objects that contain the data for each pro
       title: "Tech Blog",
       image: techblog,
       website: "https://caf62219-tech-blog-171b0459e5d1.herokuapp.com/",
-      description: "An interactive Tech blog where a user is able to view current blog posts on the homepage, but when logged in can add comments to posts, add new posts, and update or delete posts.",
+      description: "An interactive Tech blog where a user is able to view, update and delete current blog posts and add comments to posts.",
       repo: "https://github.com/caf62219/tech-blog",
     },
     {

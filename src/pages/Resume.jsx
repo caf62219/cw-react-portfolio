@@ -4,9 +4,11 @@
     return (
         <div>
             <div>
-                <h3>Proficiencies</h3>
-                <h4> Software/Programming Languages </h4>
-                <ul>
+                <br></br>
+                <br></br>   
+                <h3 style= {{color: "#3E4851"}}>Proficiencies</h3>
+                <h4 style= {{color: "#3E4851"}}> Software/Programming Languages </h4>
+                <ul style= {{color: "#3E4851"}} className= "list-unstyled">
                     <li>HTML</li>
                     <li>CSS</li>
                     <li>JavaScript</li>
@@ -21,15 +23,16 @@
                 </ul>
                 <br></br>   
                 <br></br>
-                <h4>Skills</h4>
-                <ul>
+                <h4 style= {{color: "#3E4851"}}>Skills</h4>
+                <ul style= {{color: "#3E4851"}} className="list-unstyled">
                     <li> Technical Documentation</li>
                     <li> Responsive Design</li>
                     <li> Web Accessibility</li> 
                     <li> Debugging and Troubleshooting</li> 
                     <li> Web Application Optimization</li>  
                     <li> Clean and Maintainable code</li>   
-                </ul>Technical Documentation 
+                    <li>Technical Documentation</li>
+                </ul> 
             </div>
            <br></br>
            <br></br>   
