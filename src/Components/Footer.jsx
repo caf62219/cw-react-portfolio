@@ -1,5 +1,8 @@
 //imports   
 import React from 'react';
+import github from "../assets/github-mark.png";
+import linkedin from "../assets/LI-In-Bug.png";
+import instagram from "../assets/instagram-1581266_1280.webp";
 
 //footer function that renders the footer
 export default function Footer() {
@@ -12,7 +15,7 @@ export default function Footer() {
                       <div className="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                           <div className="features-icons-icon d-flex">
                               <a href="https://github.com/caf62219" target="_blank" rel="noopener noreferrer">
-                                 <img src="src/assets/github-mark.png" alt="Github Logo" width="50px" height="50px"/>
+                                 <img src="github" alt="Github Logo" width="50px" height="50px"/>
                               </a>
                           </div>
                       </div>
@@ -21,7 +24,7 @@ export default function Footer() {
                       <div className="features-icons-item mx-auto mb-5 mb-lg-0 mb-lg-3">
                           <div className="features-icons-icon d-flex">
                               <a href="https://www.linkedin.com/in/chelsea-wagner-a72905277/" target="_blank" rel="noopener noreferrer">
-                                 <img src="src/assets/LI-In-Bug.png" alt="LinkedIn Logo" width="50px" height="50px" />
+                                 <img src="linkedin" alt="LinkedIn Logo" width="50px" height="50px" />
                               </a>
                           </div>
                       </div>
@@ -30,7 +33,7 @@ export default function Footer() {
                       <div className="features-icons-item mx-auto mb-0 mb-lg-3">
                           <div className="features-icons-icon d-flex">
                               <a href="https://www.instagram.com/caf62219/" target="_blank" rel="noopener noreferrer">
-                                 <img src="src/assets/instagram-1581266_1280.webp" alt="Instagram Logo" width="50px" height="50px"/>
+                                 <img src="instagram" alt="Instagram Logo" width="50px" height="50px"/>
                               </a>
                           </div>
                       </div>

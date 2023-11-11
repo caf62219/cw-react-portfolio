@@ -1,5 +1,6 @@
  //imports react
  import React from 'react';
+ import Resume from "../assets/resume/Chelsea-Wagner-Portfolio-Resume.pdf";
 
  //resume function that renders the proficiencies and skills
  export default function Resume() {
@@ -38,7 +39,7 @@
             </div>
            <br></br>
            <br></br>   
-           <a href='src\assets\resume\Chelsea-Wagner-Portfolio-Resume.pdf'  download >
+           <a href="Resume"  download >
                 <button type="button" className="btn btn-primary">Download Resume</button>
            </a>
         </div>
