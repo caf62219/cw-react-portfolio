@@ -1,4 +1,4 @@
-import Chelsea from "src/assets/chelsea_photo.jpg";
+import Chelsea from "../assets/chelsea_photo.jpg";
 //function that renders the about page
 export default function AboutPage() {
     return (
@@ -6,7 +6,7 @@ export default function AboutPage() {
             <h1 style= {{color: "#3E4851"}}>About Page</h1>
             <br></br>
             <br></br>
-            <img src="Chelsea" alt="Chelsea Wagner Photo" width="200px" height="300px" />
+            <img src={Chelsea} alt="Chelsea Wagner Photo" width="200px" height="300px" />
             <br></br>
             <br></br>  
             <br></br>
