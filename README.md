@@ -31,13 +31,11 @@ To install this application you need to go to the following website:
 
 ## Usage
 
-<img src="" alt="" width="600px" />
+<img src="./src/assets/App-image.png" alt="Screenshot of the homepage of the portfolio" width="600px" />
 
-    - 
+    - This is a screenshot of the homepage of the portfolio
 
-<img src="" alt="" width="600px" />
 
-    - 
 
 
 ## Contributing
