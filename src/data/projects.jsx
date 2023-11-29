@@ -14,7 +14,7 @@ export const workData = [ /* array of objects that contain the data for each pro
       title: "Hoarder's Corner",
       image: hoarderscorner,
       website: "https://smell-o-scope-fing-longer-8a61e2b82a17.herokuapp.com",
-      description: "A place collectors to share their items and connect with other collectors.",
+      description: "A place for collectors to share their items and connect with other collectors.",
       repo: "https://github.com/caf62219/hoarders-corner",
     }, 
     {
