@@ -1,6 +1,7 @@
 # Portfolio
 
 ## Description
+
 - This is a portfolio which is a single page application using REACT.
 - The viewer is able to view an about me page, a page with all the projects, a page for contact and a page for resume.
 
@@ -14,7 +15,6 @@
 - [Support](#support)
 - [Credits](#credits)
 
-
 ## Features
 
 The Portfolio utilizes the following:
@@ -25,18 +25,13 @@ The Portfolio utilizes the following:
 
 ## Installation
 
-To install this application you need to go to the following website:  https://main--velvety-syrniki-73dbbe.netlify.app/Resume
-
-
+To install this application you need to go to the following website: https://main--velvety-syrniki-73dbbe.netlify.app/Resume
 
 ## Usage
 
 <img src="./src/assets/App-image.png" alt="Screenshot of the homepage of the portfolio" width="600px" />
 
     - This is a screenshot of the homepage of the portfolio
-
-
-
 
 ## Contributing
 
@@ -56,6 +51,3 @@ To install this application you need to go to the following website:  https://ma
     Kyle Jocoy: https://github.com/Kylyote/
     Colton Firestone: https://github.com/ColtonMakesStuff
     Nedda Elsayed: https://github.com/Lven-Nemsy
-    
-
-    

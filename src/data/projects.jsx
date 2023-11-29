@@ -1,4 +1,5 @@
 //imports
+import hoarderscorner from "../assets/hoarderscorner.png";
 import getyourfiton from "../assets/Getyourfiton.png";
 import socialite from "../assets/SocialiteScreenshot.png";
 import weather from "../assets/weatherscreenshot.png";
@@ -8,6 +9,14 @@ import password from "../assets/PWGenerator.png";
 
 //array of objects that contain the data for each project
 export const workData = [ /* array of objects that contain the data for each project */
+    {
+      id: "HoardersCorner",
+      title: "Hoarder's Corner",
+      image: hoarderscorner,
+      website: "https://smell-o-scope-fing-longer-8a61e2b82a17.herokuapp.com",
+      description: "A place collectors to share their items and connect with other collectors.",
+      repo: "https://github.com/caf62219/hoarders-corner",
+    }, 
     {
       id: "GetYourFitOn",
       title: "Get Your Fit On",
